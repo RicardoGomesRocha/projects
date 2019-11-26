@@ -1,0 +1,3 @@
+[submodule "personalsite"]
+	path = personalsite
+	url = https://github.com/RicardoGomesRocha/personalsite.git
