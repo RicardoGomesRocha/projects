@@ -1,3 +1,6 @@
 [submodule "personalsite"]
 	path = personalsite
 	url = https://github.com/RicardoGomesRocha/personalsite.git
+[submodule "Hacker-Rank-Challenges"]
+	path = Hacker-Rank-Challenges
+	url = https://github.com/RicardoGomesRocha/Hacker-Rank-Challenges
