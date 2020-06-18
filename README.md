@@ -1,7 +1,8 @@
 # Welcome! 👋👋👋
 In this repository you can find a set of sub-repositories containing some of the projects which I developed or I'm current working on.
 
-*Want to  know more about me? Click [here](https://personalwebsite-28065.web.app/) to found out!*
+*Want to  know more about me? Click [here](https://personalwebsite-28065.web.app/) to found out! And [here](https://github.com/RicardoGomesRocha/personalsite) you can find how I built the website!*
+
 
 ## 📁 Folder structure
 
