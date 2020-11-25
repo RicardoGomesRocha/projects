@@ -4,9 +4,3 @@
 [submodule "Hacker-Rank-Challenges"]
 	path = Hacker-Rank-Challenges
 	url = https://github.com/RicardoGomesRocha/Hacker-Rank-Challenges
-[submodule "tutorials"]
-	path = tutorials
-	url = https://github.com/RicardoGomesRocha/tutorials
-[submodule "fullexpression"]
-	path = tutorials
-	url = https://github.com/RicardoGomesRocha/fullexpression
