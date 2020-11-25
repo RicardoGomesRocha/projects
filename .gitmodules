@@ -8,3 +8,7 @@
 	path = tutorials
 	url = https://github.com/RicardoGomesRocha/tutorials
 	branch = master
+[submodule "fullexpression"]
+	path = fullexpression
+	url = https://github.com/RicardoGomesRocha/fullexpression
+	branch = master
